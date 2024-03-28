@@ -1895,8 +1895,8 @@ h2 {
  * Contenedor
  ============================*/
 .pricing-wrapper {
-	width: 960px;
-	margin: 40px auto 0;
+	width: 70%;
+	margin: 5% auto 10%;
 }
 
 .pricing-table {
